@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="5zIp2vyKJSsvI_xb{0[F" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="TshCE(u_qDO$luvpH0I("><value name="text"><shadow type="text" id="N4w5%4l%JS~R)J`}_O3!"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_print_message" id="!%gcYMh.5INf1V6*6aMe"><value name="text"><shadow type="text" id="a`ry~z1`eY.c(M8,r0fI"><field name="TEXT">LOVE!</field></shadow></value><next><block type="device_print_message" id="#_k5DzU_$I(?$+wX9B}%"><value name="text"><shadow type="text" id="UU9%iP+mJ2K8{8jBH/^F"><field name="TEXT">U</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="AG@wtCBI^.(gM93e72UA" x="243" y="-9"><statement name="HANDLER"><block type="basic_show_icon" id="4=ABdD$N!!PRc;@kf%I#"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="feALsjt9zn[2c~2O}%mr"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        . . # . .
+        `</field></block></next></block></statement></block></xml>
